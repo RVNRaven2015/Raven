@@ -1,0 +1,2 @@
+debian/bin/ravend usr/bin
+src/ravend usr/lib/raven
